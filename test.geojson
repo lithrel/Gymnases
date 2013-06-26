@@ -16,7 +16,23 @@
         "address": "Avenue de Florensac",
         "postalcode" : "34340",
         "city": "Marseillan",
-        "phone": "'0467776776"
+        "phone": "0467776776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+          ]
+      },
+      "properties": {
+          "name": "GYM. CHARRIN",
+          "address": "Avenue Jean Moulin",
+          "postalcode": "34300",
+          "city": "AGDE",
+          "phone": "04 67 21 00 27"
       }
     }
   ]
