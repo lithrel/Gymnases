@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.522208,
+          43.362955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "pitch",
+        "name": "Gymnase Boudou",
+        "address": "Avenue de Florensac",
+        "postalcode" : "34340",
+        "city": "Marseillan",
+        "phone": "'0467776776"
+      }
+    }
+  ]
+}
