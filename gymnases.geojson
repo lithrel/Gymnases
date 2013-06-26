@@ -30,7 +30,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. CHARRIN",
+                "name": "Gymnase CHARRIN",
                 "address": "Avenue Jean Moulin",
                 "postalcode": "34300",
                 "city": "AGDE",
@@ -47,7 +47,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MOLINIER",
+                "name": "Gymnase MOLINIER",
                 "address": "Avenue Jean Moulin",
                 "postalcode": "34300",
                 "city": "AGDE",
@@ -82,8 +82,8 @@
             },
             "properties": {
                 "name": "DI STEPHANO",
-                "address": "\"23",
-                "postalcode": "rue Romain ROLLAND",
+                "address": "23 rue Romain ROLLAND",
+                "postalcode": "34200",
                 "city": "SETE",
                 "phone": "SETE"
             }
@@ -98,9 +98,9 @@
                 ]
             },
             "properties": {
-                "name": "GYM. CLAVEL",
-                "address": "\"22",
-                "postalcode": "rue Maurice CLAVEL",
+                "name": "Gymnase CLAVEL",
+                "address": "22 rue Maurice CLAVEL",
+                "postalcode": "34200",
                 "city": "SETE",
                 "phone": "SETE"
             }
@@ -115,7 +115,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. du LIDO (Ancien Joliot Curie)",
+                "name": "Gymnase du LIDO (Ancien Joliot Curie)",
                 "address": "Rue Dauphin",
                 "postalcode": "34200",
                 "city": "SETE",
@@ -132,7 +132,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. FERRARI",
+                "name": "Gymnase FERRARI",
                 "address": "Rue Baudin",
                 "postalcode": "34200",
                 "city": "SETE",
@@ -200,7 +200,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. des ARTS",
+                "name": "Gymnase des ARTS",
                 "address": "36 Rue de la Cavalerie",
                 "postalcode": "34000",
                 "city": "MONTPELLIER",
@@ -234,8 +234,8 @@
                 ]
             },
             "properties": {
-                "name": "GYM. COLAS",
-                "address": "2 - Rue de l'Arnel",
+                "name": "Gymnase COLAS",
+                "address": "2 rue de l'Arnel",
                 "postalcode": "34070",
                 "city": "MONTPELLIER",
                 "phone": "04 67 27 49 27"
@@ -251,8 +251,8 @@
                 ]
             },
             "properties": {
-                "name": "GYM. COLAS (Annexe)",
-                "address": "2 - Rue de l'Arnel",
+                "name": "Gymnase COLAS (Annexe)",
+                "address": "2 rue de l'Arnel",
                 "postalcode": "34070",
                 "city": "MONTPELLIER",
                 "phone": "04 67 07 98 05"
@@ -268,9 +268,9 @@
                 ]
             },
             "properties": {
-                "name": "GYM. GAMBARDELLA",
-                "address": "\"4",
-                "postalcode": "rue Bourrely",
+                "name": "Gymnase GAMBARDELLA",
+                "address": "4 rue Bourrely",
+                "postalcode": "34000",
                 "city": "MONTPELLIER",
                 "phone": "MONTPELLIER"
             }
@@ -302,7 +302,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. LA PRESIDENTE",
+                "name": "Gymnase LA PRESIDENTE",
                 "address": "Avenue Pierre de Coubertin",
                 "postalcode": "34500",
                 "city": "BEZIERS",
@@ -319,7 +319,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. RICARD",
+                "name": "Gymnase RICARD",
                 "address": "26 bis Rue Pierre Brousse - Quartier Quai Port Neuf",
                 "postalcode": "34500",
                 "city": "BEZIERS",
@@ -387,7 +387,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. DAUDET",
+                "name": "Gymnase DAUDET",
                 "address": "Avenue Paul Langevin",
                 "postalcode": "30100",
                 "city": "ALES",
@@ -421,7 +421,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. COUBERTIN",
+                "name": "Gymnase COUBERTIN",
                 "address": "Avenue Maréchal Leclerc",
                 "postalcode": "11400",
                 "city": "CASTELNAUDARY",
@@ -455,7 +455,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Avenue Argeliers",
                 "postalcode": "11590",
                 "city": "OUVEILLAN",
@@ -540,7 +540,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. RICARD",
+                "name": "Gymnase RICARD",
                 "address": "23 Bis Rue Pierre Brousse",
                 "postalcode": "34500",
                 "city": "BEZIERS",
@@ -558,7 +558,7 @@
             },
             "properties": {
                 "name": "Gymnase La vallée verte",
-                "address": "",
+                "address": "Avenue de la Condamine",
                 "postalcode": "30600",
                 "city": "VAUVERT",
                 "phone": "04 66 88 79 92"
@@ -676,7 +676,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. J. MOULIN",
+                "name": "Gymnase J. MOULIN",
                 "address": "Rue Jean Moulin",
                 "postalcode": "34920",
                 "city": "LE CRES",
@@ -693,7 +693,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. PIENCOURT",
+                "name": "Gymnase PIENCOURT",
                 "address": "Allée Piencourt",
                 "postalcode": "48000",
                 "city": "MENDE",
@@ -761,7 +761,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. Michel BARRIERE",
+                "name": "Gymnase Michel BARRIERE",
                 "address": "Avenue des Mailheuls",
                 "postalcode": "11110",
                 "city": "COURSAN",
@@ -778,7 +778,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MONTAGNAC",
+                "name": "Gymnase MONTAGNAC",
                 "address": "Chemin de Mercadier",
                 "postalcode": "34530",
                 "city": "MONTAGNAC",
@@ -795,27 +795,10 @@
                 ]
             },
             "properties": {
-                "name": "GYM. PEZENAS",
+                "name": "Gymnase PEZENAS",
                 "address": "Avenue Paul Vidal de la Blache",
                 "postalcode": "34120",
                 "city": "PEZENAS",
-                "phone": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.8735874,
-                    43.6149388
-                ]
-            },
-            "properties": {
-                "name": "M. BESSIERES",
-                "address": "34000 MONTPELLIER - G44",
-                "postalcode": "",
-                "city": "",
                 "phone": ""
             }
         },
@@ -863,7 +846,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. OLYMPIE",
+                "name": "Gymnase OLYMPIE",
                 "address": "Avenue Jacques CARTIER",
                 "postalcode": "34000",
                 "city": "MONTPELLIER",
@@ -880,7 +863,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. RAMEL",
+                "name": "Gymnase RAMEL",
                 "address": "10 Rue José Maria de Hérédia",
                 "postalcode": "34000",
                 "city": "MONTPELLIER",
@@ -1033,7 +1016,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. ALSINA",
+                "name": "Gymnase ALSINA",
                 "address": "20 Rue Président Doumer",
                 "postalcode": "66000",
                 "city": "PERPIGNAN",
@@ -1050,7 +1033,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. PAGNOL",
+                "name": "Gymnase PAGNOL",
                 "address": "Chemin du Sacré Coeur",
                 "postalcode": "66000",
                 "city": "PERPIGNAN",
@@ -1067,7 +1050,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. PAGNOL",
+                "name": "Gymnase PAGNOL",
                 "address": "Chemin du Sacré Coeur",
                 "postalcode": "66000",
                 "city": "PERPIGNAN",
@@ -1118,7 +1101,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM.de la PLAGE",
+                "name": "Gymnasede la PLAGE",
                 "address": "Rue Albert Camus",
                 "postalcode": "66750",
                 "city": "SAINT CYPRIEN",
@@ -1153,10 +1136,10 @@
             },
             "properties": {
                 "name": "S. POLYVALENTE",
-                "address": "\" 1378",
-                "postalcode": "Avenue du Clapas",
+                "address": "1378 Avenue du Clapas",
+                "postalcode": "34980",
                 "city": "ST GELY DU FESC",
-                "phone": "ST GELY DU FESC"
+                "phone": ""
             }
         },
         {
@@ -1170,8 +1153,8 @@
             },
             "properties": {
                 "name": "SALLE ROMPUDE",
-                "address": "\"70",
-                "postalcode": "rue Rompude",
+                "address": "70 rue Rompude",
+                "postalcode": "34980",
                 "city": "ST GELY DU FESC",
                 "phone": "ST GELY DU FESC"
             }
@@ -1203,11 +1186,11 @@
                 ]
             },
             "properties": {
-                "name": "GYM. CLAVEL",
-                "address": "\"22",
-                "postalcode": "rue Maurice Clavel",
+                "name": "Gymnase CLAVEL",
+                "address": "22 rue Maurice Clavel",
+                "postalcode": "34200",
                 "city": "SETE",
-                "phone": "SETE"
+                "phone": ""
             }
         },
         {
@@ -1220,7 +1203,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. du LIDO",
+                "name": "Gymnase du LIDO",
                 "address": "Rue Dauphin",
                 "postalcode": "34200",
                 "city": "SETE",
@@ -1237,7 +1220,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. FERRARI",
+                "name": "Gymnase FERRARI",
                 "address": "Rue Baudin",
                 "postalcode": "34200",
                 "city": "SETE",
@@ -1271,7 +1254,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Avenue des Loisirs",
                 "postalcode": "11200",
                 "city": "ROUBIA",
@@ -1288,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Route de Montagnac",
                 "postalcode": "34560",
                 "city": "VILLEVEYRAC",
@@ -1305,7 +1288,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. LES BAUX",
+                "name": "Gymnase LES BAUX",
                 "address": "rue de la salle",
                 "postalcode": "34140",
                 "city": "POUSSAN",
@@ -1339,7 +1322,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. BUFFET",
+                "name": "Gymnase BUFFET",
                 "address": "Bd Frédéric Mistral",
                 "postalcode": "11100",
                 "city": "NARBONNE",
@@ -1407,7 +1390,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. BERTAUD",
+                "name": "Gymnase BERTAUD",
                 "address": "Route de Sommières",
                 "postalcode": "34160",
                 "city": "CASTRIES",
@@ -1424,7 +1407,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Avenue Paul Valery",
                 "postalcode": "34800",
                 "city": "CLERMONT HERAULT",
@@ -1441,7 +1424,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. GENERAC",
+                "name": "Gymnase GENERAC",
                 "address": "Route de Franquevaux",
                 "postalcode": "30510",
                 "city": "GENERAC",
@@ -1458,7 +1441,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Avenue du Bois Couchant - Quartier Petite Motte",
                 "postalcode": "34280",
                 "city": "GRANDE MOTTE",
@@ -1475,7 +1458,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. DU SABLOU",
+                "name": "Gymnase DU SABLOU",
                 "address": "Place du Général Gibert",
                 "postalcode": "11430",
                 "city": "GRUISSAN",
@@ -1526,7 +1509,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Bd Gambetta",
                 "postalcode": "30220",
                 "city": "ST LAURENT AIGOUZE",
@@ -1543,7 +1526,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. MUNICIPAL",
+                "name": "Gymnase MUNICIPAL",
                 "address": "Rue du Stade",
                 "postalcode": "34350",
                 "city": "VENDRES",
@@ -1594,7 +1577,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. BOUDOU",
+                "name": "Gymnase BOUDOU",
                 "address": "Route de Florensac",
                 "postalcode": "34340",
                 "city": "MARSEILLAN",
@@ -1611,7 +1594,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. E. ALAIN",
+                "name": "Gymnase E. ALAIN",
                 "address": "Rue Emile Alain",
                 "postalcode": "11000",
                 "city": "CARCASSONNE",
@@ -1628,7 +1611,7 @@
                 ]
             },
             "properties": {
-                "name": "GYM. J. BOUIN",
+                "name": "Gymnase J. BOUIN",
                 "address": "Avenue Bitterois",
                 "postalcode": "34080",
                 "city": "MONTPELLIER",
