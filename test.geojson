@@ -23,7 +23,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
+          "coordinates": [0,0
 
           ]
       },
