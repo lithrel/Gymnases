@@ -37,9 +37,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+          "coordinates": [0,0]
       },
       "properties": {
           "name": "GYM. MOLINIER",
@@ -53,9 +51,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+          "coordinates": [0,0]
       },
       "properties": {
           "name": "P. des SPORTS",
@@ -69,9 +65,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "DI STEPHANO",
@@ -85,9 +79,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+            "coordinates": [0,0]
       },
       "properties": {
           "name": "GYM. CLAVEL",
@@ -101,9 +93,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+            "coordinates": [0,0]
       },
       "properties": {
           "name": "GYM. du LIDO (Ancien Joliot Curie)",
@@ -117,9 +107,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+            "coordinates": [0,0]
       },
       "properties": {
           "name": "GYM. FERRARI",
@@ -133,9 +121,7 @@
       "type": "Feature",
       "geometry": {
           "type": "Point",
-          "coordinates": [
-
-          ]
+            "coordinates": [0,0]
       },
       "properties": {
           "name": "HALLE MARTY",
@@ -149,9 +135,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "ETANG DE L'OR",
@@ -165,9 +149,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "H. des SPORTS",
@@ -181,9 +163,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. des ARTS",
@@ -197,9 +177,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "CENTRE SPORTIF",
@@ -213,9 +191,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. COLAS",
@@ -229,9 +205,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. COLAS (Annexe)",
@@ -245,9 +219,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. GAMBARDELLA",
@@ -261,9 +233,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "FOUR A CHAUX",
@@ -277,9 +247,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. LA PRESIDENTE",
@@ -293,9 +261,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. RICARD",
@@ -309,9 +275,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "CS RENE CHAR",
@@ -325,9 +289,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "SALLE COMBES",
@@ -341,9 +303,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "CLAVIERES",
@@ -357,9 +317,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. DAUDET",
@@ -373,9 +331,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM MILLENAIRE",
@@ -389,9 +345,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. COUBERTIN",
@@ -405,9 +359,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "COMPL. SPORTIF",
@@ -421,9 +373,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -437,9 +387,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "Gilbert SENES",
@@ -453,9 +401,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "S. VICTO HUGO",
@@ -469,9 +415,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "S. OMNISPORTS",
@@ -485,9 +429,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "CES LA DEVEZE",
@@ -501,9 +443,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. RICARD",
@@ -517,9 +457,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "Gymnase La vallée verte",
@@ -533,9 +471,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "ROBERT GOURDON",
@@ -549,9 +485,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "COUBERTIN",
@@ -565,9 +499,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "L. CHAMPOLLION",
@@ -581,9 +513,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "LE HETET",
@@ -597,9 +527,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "S. des SPORTS",
@@ -613,9 +541,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "S.A.F.E.R.",
@@ -629,9 +555,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. J. MOULIN",
@@ -645,9 +569,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. PIENCOURT",
@@ -661,9 +583,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "L. TECHNIQUE",
@@ -677,9 +597,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "H. PERRIERES",
@@ -693,9 +611,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. des SPORTS",
@@ -709,9 +625,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. Michel BARRIERE",
@@ -725,9 +639,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MONTAGNAC",
@@ -741,9 +653,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. PEZENAS",
@@ -757,9 +667,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "M. BESSIERES",
@@ -773,9 +681,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "M. BESSIERES",
@@ -789,9 +695,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "ARTHUR RIMBAUD",
@@ -805,9 +709,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. OLYMPIE",
@@ -821,9 +723,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. RAMEL",
@@ -837,9 +737,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "HALLE SHAW",
@@ -853,9 +751,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. COUBERTIN",
@@ -869,9 +765,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "RENE BOUGNOL",
@@ -885,9 +779,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GASTON LESSUT",
@@ -901,9 +793,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "LES OLIVIERS",
@@ -917,9 +807,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. LAMOUR",
@@ -933,9 +821,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "PABLO NERUDA",
@@ -949,9 +835,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "STADE des COSTIERES",
@@ -965,9 +849,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. ALSINA",
@@ -981,9 +863,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. PAGNOL",
@@ -997,9 +877,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. PAGNOL",
@@ -1013,9 +891,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "HALLE BRUNEL",
@@ -1029,9 +905,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "HALLE BRUNEL (Annexe)",
@@ -1045,9 +919,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM.de la PLAGE",
@@ -1061,9 +933,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "M. BOUSQUET",
@@ -1077,9 +947,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "S. POLYVALENTE",
@@ -1093,9 +961,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "SALLE ROMPUDE",
@@ -1109,9 +975,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "",
@@ -1125,9 +989,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. CLAVEL",
@@ -1141,9 +1003,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. du LIDO",
@@ -1157,9 +1017,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. FERRARI",
@@ -1173,9 +1031,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. COUBERTIN",
@@ -1189,9 +1045,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1205,9 +1059,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1221,9 +1073,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. LES BAUX",
@@ -1237,9 +1087,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. du TRAVAIL",
@@ -1253,9 +1101,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. BUFFET",
@@ -1269,9 +1115,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "JEU DE PAUME",
@@ -1285,9 +1129,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "Gilbert SENES",
@@ -1301,9 +1143,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "SALLE POLYVALENTE",
@@ -1317,9 +1157,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. BERTAUD",
@@ -1333,9 +1171,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1349,9 +1185,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. GENERAC",
@@ -1365,9 +1199,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1381,9 +1213,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. DU SABLOU",
@@ -1397,9 +1227,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "C. LE RANQUET",
@@ -1413,9 +1241,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "FRISON ROCHE",
@@ -1429,9 +1255,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1445,9 +1269,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. MUNICIPAL",
@@ -1461,9 +1283,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "G. de la POSTE",
@@ -1477,9 +1297,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "P. des SPORTS",
@@ -1493,9 +1311,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. BOUDOU",
@@ -1509,9 +1325,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. E. ALAIN",
@@ -1525,9 +1339,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "GYM. J. BOUIN",
@@ -1541,9 +1353,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [
-
-            ]
+            "coordinates": [0,0]
         },
         "properties": {
             "name": "JEU DE PAUME",
